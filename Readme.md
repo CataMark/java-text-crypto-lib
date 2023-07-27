@@ -1,0 +1,1 @@
+# Library for symmetric text encryption/ decryption based on a provided key
